@@ -1,5 +1,5 @@
-# learn-algorithm
-every thing about algorithm
+# learn-algorithm easily
+every thing about algorithm in detail
 
 # guide line
 
